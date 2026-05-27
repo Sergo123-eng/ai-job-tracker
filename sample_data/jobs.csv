@@ -1,0 +1,8 @@
+company,role,job_url,status,applied_date,follow_up_date,notes,match_score
+Google,Software Engineer - AI,https://careers.google.com/jobs/1234,applied,2026-05-01,2026-05-15,Applied via referral. Role focuses on LLM integration and backend Python.,85
+OpenAI,Solutions Engineer,https://openai.com/careers/5678,phone_screen,2026-05-05,2026-05-19,Phone screen scheduled. Requires FastAPI and prompt engineering experience.,78
+Meta,Data Engineer,https://metacareers.com/jobs/9012,applied,2026-05-10,,Strong match on Python and SQL. Missing Spark experience.,62
+Stripe,Backend Engineer,https://stripe.com/jobs/3456,saved,,2026-05-28,Bookmarked. Requires distributed systems experience I need to review.,55
+Anthropic,AI Engineer,https://anthropic.com/careers/7890,interview,2026-05-12,2026-05-20,Two rounds completed. Strong interest from hiring team. Final round pending.,91
+LinkedIn,ML Engineer,https://linkedin.com/jobs/1111,rejected,2026-04-20,,Rejected after technical screen. Missing production ML deployment experience.,48
+Salesforce,Python Developer,https://salesforce.com/careers/2222,applied,2026-05-15,,Good fit on API development. CRM domain knowledge gap.,70
